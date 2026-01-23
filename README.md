@@ -8,7 +8,7 @@ A modern, responsive personal portfolio website showcasing skills, projects, and
 - **Dark Mode**: Toggle between light and dark themes with persistent preference
 - **Smooth Navigation**: Fixed header with smooth scroll functionality
 - **Hero Section**: Professional introduction with profile photo and call-to-action buttons
-- **About Section**: Detailed background highlighting backend engineering, ML, and entrepreneurship
+- **About Section**: Detailed background highlighting backend engineering, ML and entrepreneurship
 - **Projects Showcase**: Portfolio of featured work with images and technology tags
 - **Skills Display**: Visual progress bars showing technical proficiency
 - **Contact Section**: Interactive contact information and message form
